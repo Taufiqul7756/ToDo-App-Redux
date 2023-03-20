@@ -9,26 +9,31 @@ This app is a great starting point for anyone interested in learning how to buil
 
 <h1>Features </h1>
 
-Create, edit, and delete tasks
-Mark tasks as completed or incomplete
-Drag-and-drop functionality for task reordering
-Filtering options for organizing tasks by priority, status, or due date
-State management using Redux for centralized data management
+<li>Create, edit, and delete tasks</li>
+<li>Mark tasks as completed or incomplete</li>
+<li>State management using Redux for centralized data management</li>
+
 
 <h1>Technologies Used </h1>
 
-React.js
-Redux
-HTML/CSS
+<li>React.js</li>
+<li>Redux</li>
+<li>HTML/CSS</li>
+
+
+
 
 
 <h1> Installation</h1>
 
 To run this app on your local machine, follow these steps:
 
-Clone the repository: git clone [insert repository link]
-Install any necessary dependencies: npm install
-Run the app: npm start
+<li>Clone the repository: git clone [insert repository link]</li>
+<li>Install any necessary dependencies: npm install</li>
+<li>Run the app: npm start</li>
+
+
+
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, bug reports, and feature requests are always welcome!
 
